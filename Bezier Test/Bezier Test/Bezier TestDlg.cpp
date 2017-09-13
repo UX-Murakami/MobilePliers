@@ -1,6 +1,7 @@
 
 // Bezier TestDlg.cpp : 実装ファイル
 //
+// 20170913 githabにコミット - C.mura
 
 #include "stdafx.h"
 #include "Bezier Test.h"
